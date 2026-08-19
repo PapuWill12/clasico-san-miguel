@@ -1,0 +1,1 @@
+Replace the generic photography in styles.css with authorized Clásico San Miguel images.
